@@ -22,7 +22,7 @@
   },
   "git": {
     "scripts": {
-      "pre-push": "surge public kendo-reigi.surge.sh"
+      "pre-push": "bash scripts/deploy.sh"
     }
   }
 }

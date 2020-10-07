@@ -45,4 +45,8 @@ npm install
 npm run dev
 ```
 
-Open up [localhost:5000](http://localhost:5000/) in your browser to see the site. 
+Open up [localhost:5000](http://localhost:5000/) in your browser to see the site.
+
+### Disclaimer
+
+This website is a personal project that reflects my personal interpretations of kendo cultural nuances. Any views or opinions expressed here are personal and belong solely to the author and do not necessarily reflect the official policy of the University of California, Los Angeles or the UCLA Kendo Club unless explicitly stated. Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, individual, anyone, or anything.

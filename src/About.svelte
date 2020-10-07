@@ -30,13 +30,18 @@
     </p>
 
     <p>
+      You can find the source for this website
+      <a href="https://github.com/insiyab/kendo-reigi">here</a>.
+    </p>
+
+    <p>
       <i>Disclaimer:</i>
-      This site is a personal project that reflects my personal interpretations
-      of kendo cultural nuances. Any views or opinions expressed here are
-      personal and belong solely to the author and does not necessarily reflect
-      the official policy of the University of California, Los Angeles or the
-      UCLA Kendo Club unless explicitly stated. Any views or opinions are not
-      intended to malign any religion, ethnic group, club, organization,
+      This website is a personal project that reflects my personal
+      interpretations of kendo cultural nuances. Any views or opinions expressed
+      here are personal and belong solely to the author and do not necessarily
+      reflect the official policy of the University of California, Los Angeles
+      or the UCLA Kendo Club unless explicitly stated. Any views or opinions are
+      not intended to malign any religion, ethnic group, club, organization,
       company, individual, anyone, or anything.
     </p>
   </body>

@@ -26,6 +26,8 @@ button {
   padding: 0.5em;
   border-radius: 0.5em;
   border: 0px;
+  width: 100px;
+  height: 50px;
 
   color: #ffffff;
   background-color: #172950;
@@ -38,6 +40,7 @@ button {
 
 button:hover {
   background-color: rgba(23, 41, 80, 60%); /* #172950 */
+  font-size: 1em;
 }
 
 ::selection {

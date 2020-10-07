@@ -40,11 +40,25 @@
     <h1>Kendo Reigi</h1>
 
     <div class="button_wrapper">
-      <button on:click={() => changePage('about')}>About</button>
+      <button
+        id="btn_about"
+        onmouseover="this.innerHTML='アバウト';"
+        onmouseout="this.innerHTML='About';"
+        on:click={() => changePage('about')}>About</button>
       <div class="vertical_divider" />
-      <button on:click={() => changePage('etiquette')}>Etiquette</button>
+
+      <button
+        id="btn_etiquette"
+        onmouseover="this.innerHTML='礼儀';"
+        onmouseout="this.innerHTML='Etiquette';"
+        on:click={() => changePage('etiquette')}>Etiquette</button>
       <div class="vertical_divider" />
-      <button on:click={() => changePage('vocabulary')}>Vocabulary</button>
+
+      <button
+        id="btn_vocab"
+        onmouseover="this.innerHTML='語彙';"
+        onmouseout="this.innerHTML='Vocabulary';"
+        on:click={() => changePage('vocabulary')}>Vocabulary</button>
     </div>
 
     {#if currPage == newPage}

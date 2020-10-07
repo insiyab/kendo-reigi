@@ -8,7 +8,7 @@ My name is Insiya Bambot, and I’m a senior pursuing a B.S. in Computer Science
 
 Thanks to a certain pandemic, my education and extracurricular activities have moved online, and it's been a while since I and many others have practiced together in person. So I imagine it's difficult for those who are just beginning their kendo journey to pick up all the language and etiquette that they would normally be exposed to in the dojo. The Kendo Reigi site is my effort to introduce kendo's cultural nuances to these new kendoka while they learn to wield their shinai from home.
 
-However, this isn't purely a kendo endeavor. In creating this project, I leveled up in using Svelte and CSS, and I learned  I how to embed media into my sites using vanilla HTML. I also became friendly with GitHub actions, using it to re-deploy the Kendo Reigi site every time I commit to master.
+However, this isn't purely a kendo endeavor. In creating this project, I leveled up in using Svelte and CSS, and I learned  I how to embed media into my sites using vanilla HTML. I also became friendly with git hooks, using it to re-deploy the Kendo Reigi site every time I push to master.
 
 ### Deployment
 

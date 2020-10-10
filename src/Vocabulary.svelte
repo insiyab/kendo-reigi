@@ -197,12 +197,12 @@
             <td>
               <!-- svelte-ignore a11y-media-has-caption -->
               <audio controls>
-                <source src="audio/ikkyuudo.mp3" type="audio/mpeg">
+                <source src="audio/ikkyodo.mp3" type="audio/mpeg">
               Your browser does not support audio.
               </audio>
             </td>
-            <td>Ikkyuudo</td>
-            <td>いっきゅうど</td>
+            <td>Ikkyodo</td>
+            <td>いっきょど</td>
             <td>one part strike</td>
           </tr>
           <tr>
@@ -441,12 +441,12 @@
             <td>
               <!-- svelte-ignore a11y-media-has-caption -->
               <audio controls>
-                <source src="audio/nikyuudo.mp3" type="audio/mpeg">
+                <source src="audio/nikyodo.mp3" type="audio/mpeg">
               Your browser does not support audio.
               </audio>
             </td>
-            <td>Nikyuudo</td>
-            <td>にきゅうど</td>
+            <td>Nikyodo</td>
+            <td>にきょど</td>
             <td>two part strike</td>
           </tr>
           <tr>
@@ -517,12 +517,12 @@
             <td>
               <!-- svelte-ignore a11y-media-has-caption -->
               <audio controls>
-                <source src="audio/sankyuudo.mp3" type="audio/mpeg">
+                <source src="audio/sankyodo.mp3" type="audio/mpeg">
               Your browser does not support audio.
               </audio>
             </td>
-            <td>Sankyuudo</td>
-            <td>さんきゅうど</td>
+            <td>Sankyodo</td>
+            <td>さんきょど</td>
             <td>three part strike</td>
           </tr>
           <tr>

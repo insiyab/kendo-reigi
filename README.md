@@ -4,7 +4,9 @@ Kendo Reigi is currently live at [kendo-reigi.surge.sh](http://kendo-reigi.surge
 
 ### Backstory
 
-My name is Insiya Bambot, and I’m a senior pursuing a B.S. in Computer Science at UCLA. In addition to my studies, I'm serving as President of the UCLA Kendo Club for the 2020-21 school year. You can learn more about me here.
+My name is Insiya Bambot. At the time of making this site, I was a college student in my senior year, pursuing my B.S. in Computer Science at UCLA. In addition to my studies, I served as President of the UCLA Kendo Club for the 2020-21 school year. You can learn more about me [here](http://insiyabambot.wordpress.com/).
+
+Here's the original backstory for this project:
 
 Thanks to a certain pandemic, my education and extracurricular activities have moved online, and it's been a while since I and many others have practiced together in person. So I imagine it's difficult for those who are just beginning their kendo journey to pick up all the language and etiquette that they would normally be exposed to in the dojo. The Kendo Reigi site is my effort to introduce kendo's cultural nuances to these new kendoka while they learn to wield their shinai from home.
 

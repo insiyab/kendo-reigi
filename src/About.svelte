@@ -12,11 +12,15 @@
     </h3>
 
     <p>
-      My name is Insiya Bambot, and I’m a senior pursuing a B.S. in Computer
-      Science at UCLA. In addition to my studies, I'm serving as President of
-      the UCLA Kendo Club for the 2020-21 school year. You can learn more about
-      me
+      My name is Insiya Bambot. At the time of making this site, I was a college 
+      student in my senior year, pursuing my B.S. in Computer Science at UCLA.
+      In addition to my studies, I served as President of the UCLA Kendo Club
+      for the 2020-21 school year. You can learn more about me 
       <a href="http://insiyabambot.wordpress.com/">here</a>.
+    </p>
+
+    <p>
+      Here's the original backstory for this project:
     </p>
 
     <p>
